@@ -1,3 +1,3 @@
-# Project name
+# Java sound library
 
-Description
+Library: Sound development - Java
